@@ -1,0 +1,31 @@
+ol {
+  margin-left: -40px;
+  margin-top: -20px;
+  list-style-position: inside;
+}
+
+/* Write your CSS below, don't change the rules above. */
+/* Sets the para color to red*/
+p{
+  color : red;
+}
+
+/* Sets the class name note to font size 20 px*/
+.note {
+  font-size: 20px;
+}
+
+/* Sets  the id  = green color*/
+#id-selector-demo {
+  color : green;
+}
+
+/* Sets  ordered list whose value = 4 to color = blue*/
+li[value="4"] {
+  color : blue;
+}
+
+/* Sets  eveything align to center*/
+* {
+  text-align: center;
+}
